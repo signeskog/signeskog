@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Signe and I am a graduate student at Linköping University, and I want to learn about the molecular fundamentals of fertility and development. Code here will mostly be centered around that, with the occasional passion project.
+<br>
+
+- 🧬 I’m currently working on analysis of RNA in all shapes and sizes (but mostly short ones!) 
+- 📝 I mostly work in R but aspire to incorporate more and more Python in my skillset
+- 📫 How to reach me: mail or Twitter DM! 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My favourite Elden Ring boss is Maliketh and my drink of choice is a Gin Fizz
+
 <!--
 **signeskog/signeskog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
