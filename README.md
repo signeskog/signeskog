@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Signe and I am a graduate student at Linköping University, and I want to learn about the molecular fundamentals of fertility and development. Code here will mostly be centered around that, with the occasional passion project.
+My name is Signe and I am a graduate student at Linköping University that wants to learn about the molecular fundamentals of fertility and development. Code here will mostly be centered around that, with the occasional passion project.
 <br>
 
 - 🧬 I’m currently working on analysis of RNA in all shapes and sizes (but mostly short ones!) 
